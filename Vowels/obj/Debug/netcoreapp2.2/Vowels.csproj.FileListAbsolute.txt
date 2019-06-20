@@ -1,0 +1,11 @@
+C:\Users\Luciano\C#_Programs\Vowels\bin\Debug\netcoreapp2.2\Vowels.deps.json
+C:\Users\Luciano\C#_Programs\Vowels\bin\Debug\netcoreapp2.2\Vowels.runtimeconfig.json
+C:\Users\Luciano\C#_Programs\Vowels\bin\Debug\netcoreapp2.2\Vowels.runtimeconfig.dev.json
+C:\Users\Luciano\C#_Programs\Vowels\bin\Debug\netcoreapp2.2\Vowels.dll
+C:\Users\Luciano\C#_Programs\Vowels\bin\Debug\netcoreapp2.2\Vowels.pdb
+C:\Users\Luciano\C#_Programs\Vowels\obj\Debug\netcoreapp2.2\Vowels.csprojAssemblyReference.cache
+C:\Users\Luciano\C#_Programs\Vowels\obj\Debug\netcoreapp2.2\Vowels.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\C#_Programs\Vowels\obj\Debug\netcoreapp2.2\Vowels.AssemblyInfoInputs.cache
+C:\Users\Luciano\C#_Programs\Vowels\obj\Debug\netcoreapp2.2\Vowels.AssemblyInfo.cs
+C:\Users\Luciano\C#_Programs\Vowels\obj\Debug\netcoreapp2.2\Vowels.dll
+C:\Users\Luciano\C#_Programs\Vowels\obj\Debug\netcoreapp2.2\Vowels.pdb

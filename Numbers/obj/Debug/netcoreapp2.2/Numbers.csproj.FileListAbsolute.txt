@@ -1,0 +1,11 @@
+C:\Users\Luciano\C#_Programs\Numbers\bin\Debug\netcoreapp2.2\Numbers.deps.json
+C:\Users\Luciano\C#_Programs\Numbers\bin\Debug\netcoreapp2.2\Numbers.runtimeconfig.json
+C:\Users\Luciano\C#_Programs\Numbers\bin\Debug\netcoreapp2.2\Numbers.runtimeconfig.dev.json
+C:\Users\Luciano\C#_Programs\Numbers\bin\Debug\netcoreapp2.2\Numbers.dll
+C:\Users\Luciano\C#_Programs\Numbers\bin\Debug\netcoreapp2.2\Numbers.pdb
+C:\Users\Luciano\C#_Programs\Numbers\obj\Debug\netcoreapp2.2\Numbers.csprojAssemblyReference.cache
+C:\Users\Luciano\C#_Programs\Numbers\obj\Debug\netcoreapp2.2\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\C#_Programs\Numbers\obj\Debug\netcoreapp2.2\Numbers.AssemblyInfoInputs.cache
+C:\Users\Luciano\C#_Programs\Numbers\obj\Debug\netcoreapp2.2\Numbers.AssemblyInfo.cs
+C:\Users\Luciano\C#_Programs\Numbers\obj\Debug\netcoreapp2.2\Numbers.dll
+C:\Users\Luciano\C#_Programs\Numbers\obj\Debug\netcoreapp2.2\Numbers.pdb

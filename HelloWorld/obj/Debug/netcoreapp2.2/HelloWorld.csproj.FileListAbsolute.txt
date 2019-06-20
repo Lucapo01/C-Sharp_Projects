@@ -1,0 +1,33 @@
+C:\Users\Luciano\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\Users\Luciano\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\Users\Luciano\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\Users\Luciano\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Luciano\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\Luciano\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Luciano\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Luciano\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\Users\Luciano\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Luciano\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\Luciano\C# Programs\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\Users\Luciano\C# Programs\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\Users\Luciano\C# Programs\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\Users\Luciano\C# Programs\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Luciano\C# Programs\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\Luciano\C# Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Luciano\C# Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\C# Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Luciano\C# Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\Users\Luciano\C# Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Luciano\C# Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\Luciano\C#_Programs\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\Users\Luciano\C#_Programs\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\Users\Luciano\C#_Programs\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\Users\Luciano\C#_Programs\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Luciano\C#_Programs\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\Luciano\C#_Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Luciano\C#_Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\C#_Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Luciano\C#_Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\Users\Luciano\C#_Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Luciano\C#_Programs\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb

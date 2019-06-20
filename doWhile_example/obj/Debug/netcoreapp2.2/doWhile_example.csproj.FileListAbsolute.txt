@@ -1,0 +1,11 @@
+C:\Users\Luciano\C#_Programs\doWhile_example\obj\Debug\netcoreapp2.2\doWhile_example.csprojAssemblyReference.cache
+C:\Users\Luciano\C#_Programs\doWhile_example\obj\Debug\netcoreapp2.2\doWhile_example.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\C#_Programs\doWhile_example\obj\Debug\netcoreapp2.2\doWhile_example.AssemblyInfoInputs.cache
+C:\Users\Luciano\C#_Programs\doWhile_example\obj\Debug\netcoreapp2.2\doWhile_example.AssemblyInfo.cs
+C:\Users\Luciano\C#_Programs\doWhile_example\bin\Debug\netcoreapp2.2\doWhile_example.deps.json
+C:\Users\Luciano\C#_Programs\doWhile_example\bin\Debug\netcoreapp2.2\doWhile_example.runtimeconfig.json
+C:\Users\Luciano\C#_Programs\doWhile_example\bin\Debug\netcoreapp2.2\doWhile_example.runtimeconfig.dev.json
+C:\Users\Luciano\C#_Programs\doWhile_example\bin\Debug\netcoreapp2.2\doWhile_example.dll
+C:\Users\Luciano\C#_Programs\doWhile_example\bin\Debug\netcoreapp2.2\doWhile_example.pdb
+C:\Users\Luciano\C#_Programs\doWhile_example\obj\Debug\netcoreapp2.2\doWhile_example.dll
+C:\Users\Luciano\C#_Programs\doWhile_example\obj\Debug\netcoreapp2.2\doWhile_example.pdb
