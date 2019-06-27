@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luciano\\C#_Programs\\Sentencias2\\Sentencias2.csproj",
+      "projectUniqueName": "C:\\Users\\Luciano\\Repos\\CS_BootCamp\\Sentencias2\\Sentencias2.csproj",
       "projectName": "Sentencias2",
-      "projectPath": "C:\\Users\\Luciano\\C#_Programs\\Sentencias2\\Sentencias2.csproj",
+      "projectPath": "C:\\Users\\Luciano\\Repos\\CS_BootCamp\\Sentencias2\\Sentencias2.csproj",
       "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luciano\\C#_Programs\\Sentencias2\\obj\\",
+      "outputPath": "C:\\Users\\Luciano\\Repos\\CS_BootCamp\\Sentencias2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

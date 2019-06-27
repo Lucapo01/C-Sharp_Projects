@@ -1,0 +1,11 @@
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\bin\Debug\netcoreapp2.2\Sentencias2.deps.json
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\bin\Debug\netcoreapp2.2\Sentencias2.runtimeconfig.json
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\bin\Debug\netcoreapp2.2\Sentencias2.runtimeconfig.dev.json
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\bin\Debug\netcoreapp2.2\Sentencias2.dll
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\bin\Debug\netcoreapp2.2\Sentencias2.pdb
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\obj\Debug\netcoreapp2.2\Sentencias2.csprojAssemblyReference.cache
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\obj\Debug\netcoreapp2.2\Sentencias2.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\obj\Debug\netcoreapp2.2\Sentencias2.AssemblyInfoInputs.cache
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\obj\Debug\netcoreapp2.2\Sentencias2.AssemblyInfo.cs
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\obj\Debug\netcoreapp2.2\Sentencias2.dll
+C:\Users\Luciano\Repos\CS_BootCamp\Sentencias2\obj\Debug\netcoreapp2.2\Sentencias2.pdb
