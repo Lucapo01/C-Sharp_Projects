@@ -1,0 +1,11 @@
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\bin\Debug\netcoreapp2.2\Precedencias.deps.json
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\bin\Debug\netcoreapp2.2\Precedencias.runtimeconfig.json
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\bin\Debug\netcoreapp2.2\Precedencias.runtimeconfig.dev.json
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\bin\Debug\netcoreapp2.2\Precedencias.dll
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\bin\Debug\netcoreapp2.2\Precedencias.pdb
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\obj\Debug\netcoreapp2.2\Precedencias.csprojAssemblyReference.cache
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\obj\Debug\netcoreapp2.2\Precedencias.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\obj\Debug\netcoreapp2.2\Precedencias.AssemblyInfoInputs.cache
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\obj\Debug\netcoreapp2.2\Precedencias.AssemblyInfo.cs
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\obj\Debug\netcoreapp2.2\Precedencias.dll
+C:\Users\Luciano\Repos\CS_BootCamp\Precedencias\obj\Debug\netcoreapp2.2\Precedencias.pdb
